@@ -1,4 +1,4 @@
-# A-Reliable-Medical-Chatbot
+# MediChat: A-Reliable-Medical-Chatbot
 
 -Built a medical chatbot using Gradio (UI) and **LangChain** + **Groq** LLM (backend).
 
